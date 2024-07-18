@@ -1,0 +1,40 @@
+
+
+    .heading-background{border: solid rgb(87, 66, 39);
+                        background-color:rgb(197, 154, 97)}
+    .header-background{background-color:rgb(87, 66, 39);
+                       color:rgb(192, 171, 145)}
+    h3{font-family: monospace;}
+
+    h1{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       text-align: center;
+       font-size: 50px;
+       color: rgb(146, 121, 68);
+       padding-top: 70px}
+
+    h2{font-family: Helvetica;
+       text-align: center;}
+
+    p, li{font-size: 20px}
+    #banner{background-image: url(https://www.nyip.edu/media/zoo/images/top-5-photography-trends-in-2023-for-budding-photographers-1_7ab20070adafbe94d85f51804d9a9bdf.jpg);
+            background-size: cover;
+            background-position: top center;
+            height:450px}
+    img{height: 250px;
+        width: 250px}
+    .link{color:rgb(68, 55, 39);
+          padding-left: 10px}
+    .link2{color:rgb(68, 55, 39);
+           padding-left: 20px}
+
+    .light{background-color: rgb(197, 154, 97)}
+    .lesslight{background-color:rgb(173, 134, 84)}
+    .notlight{background-color:rgb(150, 115, 69)}
+    .dark{background-color:rgb(128, 98, 59)}
+    .darker{background-color:rgb(112, 86, 51)}
+
+    body{background-color:rgb(212, 193, 170)}
+    .cam{color:rgb(68, 55, 39);
+         text-align: center}
+    
+    .camlist{text-align: center;}
